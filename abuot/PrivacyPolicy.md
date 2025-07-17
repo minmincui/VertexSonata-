@@ -7,7 +7,7 @@ At Hong Kong VertexSonate Technology Limited, (referred to as “VertexSonate”
 
 Remember that your use of VertexSonate's Services is at all times subject to our Terms of Use, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.
 
-What this Privacy Policy Covers
+What this Privacy Policy Coversa
 
 This Privacy Policy covers how we treat Personal Data that we gather when you access or use our Services. “Personal Data” means any information that identifies or relates to a particular individual and also includes information referred to as “personally identifiable information” or “personal information” under applicable data privacy laws, rules, or regulations. This Privacy Policy does not cover the practices of companies we don’t own or control or people we don’t manage.
 
