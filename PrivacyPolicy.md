@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
-  <h1>Privacy Policy</h1>
-  <p>
+
+# Privacy Policy
 Effective date: Oct 30, 2022
 
  
@@ -699,9 +696,3 @@ If you or your legally authorized agent need help, do not have an account, or wo
  
 
 If you want to know more about our sharing activities, please read our Privacy Policy.
-
-
-
- </p>
-</body>
-</html>
