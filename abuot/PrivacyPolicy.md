@@ -646,7 +646,7 @@ You can find our Privacy Policies which had been effective respectively from Jul
 and January 1, 2020 to October 30, 2022 at
 
 
-       https://bettagames.com/privacy/agreementId=E20200101
+       https://minmincui.github.io/VertexSonata-/abuot/PrivacyPolicy
 
 
 Contact Information:
@@ -660,7 +660,7 @@ We designate a Privacy Officer who comprehensively takes charge of personal info
 ·       Address:R00M 06 13A/F SOUTH TOWER WORLD FINANCE CENTRE HARBOUR CITY 17 CANTON RD TST KL
 HONGKONG
 
-·       http://betta-games.net/
+·       https://minmincui.github.io/VertexSonata-/
 
  
 
