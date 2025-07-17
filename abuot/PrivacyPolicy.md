@@ -10,7 +10,7 @@ Effective date: Oct 30, 2022
 
 At Hong Kong VertexSonate Technology Limited, (referred to as “VertexSonate”, “we”, “us”, or “our”), we take your privacy seriously. Please read this Privacy Policy to learn how we treat your personal information. By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined below, and you hereby consent that we will collect, use, and share your information as described in this Privacy Policy.
 
-Remember that your use of Fotoable's Services (Betta Games) is at all times subject to our Terms of Use, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.
+Remember that your use of VertexSonate's Services is at all times subject to our Terms of Use, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the Terms of Use.
 
 What this Privacy Policy Covers
 
@@ -677,9 +677,9 @@ HONGKONG
 
  
 
-Fotoable (Betta Games) may share your information with third parties to serve you offers for Betta Games, or offers from our third-party advertising partners. This sharing could get you a personalized advertising and gaming experience. 
+VertexSonate may share your information with third parties to serve you offers for VertexSonate, or offers from our third-party advertising partners. This sharing could get you a personalized advertising and gaming experience. 
 
-But, Betta Games gives you the ability to disable targeted advertising provided by third-party partners at any time and If you wish to disable targeted advertising, you can do so by limiting ad tracking in your device settings:
+But, VertexSonate gives you the ability to disable targeted advertising provided by third-party partners at any time and If you wish to disable targeted advertising, you can do so by limiting ad tracking in your device settings:
 
 For iOS devices，please follow the instruction provided by Apple
 
@@ -691,7 +691,7 @@ https://support.google.com/ads/answer/2662856?co=GENIE.Platform%3DAndroid&hl=en
 
  
 
-If you still couldn’t fix it on your device, you can also send an email to 510935323@qq.com including your account and device information. Once we receive your information and locate your account, Betta Games will disable the personalized advertising and no longer share your information with third-party partners, but it may take a little bit of time before your opt-out takes effect.
+If you still couldn’t fix it on your device, you can also send an email to 510935323@qq.com including your account and device information. Once we receive your information and locate your account, VertexSonate will disable the personalized advertising and no longer share your information with third-party partners, but it may take a little bit of time before your opt-out takes effect.
 
  
 
